@@ -1,0 +1,26 @@
+.posts-wrapper {
+    font-family: 'Lato', sans-serif;
+}
+
+.post-list-individual-post {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    padding: 20px;
+    margin: 60px;
+    background-color: #1f1d1d;
+    color: #ffffff;
+}
+
+.edit-delete-wrapper svg {
+    font-size: 40px;
+    cursor: pointer;
+    color: #ffffff;
+    margin: 10px 10px 0 0;
+}
+
+.edit-delete-wrapper svg:hover {
+    opacity: 70%;
+}

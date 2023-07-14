@@ -1,0 +1,23 @@
+.home-container {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://images.unsplash.com/photo-1516263497941-cfa23ccbf9bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome-container-top {
+    background-color: rgb(39, 41, 41);
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 2%;
+    font-family: 'Josefin Sans', sans-serif;
+}
